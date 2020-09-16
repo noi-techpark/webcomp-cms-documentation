@@ -1,4 +1,4 @@
-Pimcore
+Wordpress
 =======
 
 ## Table of contents
