@@ -2,12 +2,12 @@ How to add Web Components in CMS Systems
 ========================================
 
 ## Table of contents
-- [Pimcore](pimcore/readme.md)
-- [Worpress](wordpress/readme.md)
 - [Drupal](drupal/readme.md)
+- [Pimcore](pimcore/readme.md)
 - [Squarspace](squarespacae/readme.md)
 - [Weebly](weebly/readme.md)
 - [Wix](wix/readme.md)
+- [Worpress](wordpress/readme.md)
 - [Information](information)
 
 ## Information
