@@ -7,7 +7,7 @@ How to add Web Components in CMS Systems
 - [Drupal](drupal/readme.md)
 - [Squarspace](squarespacae/readme.md)
 - [Weebly](weebly/readme.md)
-
+- [Wix](wix/readme.md)
 - [Information](information)
 
 ## Information
