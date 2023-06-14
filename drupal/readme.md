@@ -36,5 +36,5 @@ Paste the web component code into the text area, save and preview the changes.
 ```html
 <webcomp-creative-industries height="780px" locale="en" width="100%"></webcomp-creative-industries>
 
-<script src="https://cdn.webcomponents.opendatahub.bz.it/dist/f1321372-6629-4912-a331-77d5d91dd646/v0.8.4/webcomp-creative-industries.min.js"></script>
+<script src="https://cdn.webcomponents.opendatahub.com/dist/f1321372-6629-4912-a331-77d5d91dd646/v0.8.4/webcomp-creative-industries.min.js"></script>
 ```

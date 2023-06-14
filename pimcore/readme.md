@@ -67,7 +67,7 @@ For example copy this html content into the newly created `view.html.twig` file.
 ```html
 <section class="container">
     <webcomp-creative-industries locale="en" width="1050px" height="780px"></webcomp-creative-industries>
-    <script src="https://cdn.webcomponents.opendatahub.bz.it/dist/f1321372-6629-4912-a331-77d5d91dd646/v0.8.4/webcomp-creative-industries.min.js"></script>
+    <script src="https://cdn.webcomponents.opendatahub.com/dist/f1321372-6629-4912-a331-77d5d91dd646/v0.8.4/webcomp-creative-industries.min.js"></script>
 <section class="container">
 ```
 
